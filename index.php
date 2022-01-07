@@ -198,7 +198,7 @@
             </div>
             <div class="history-data">
             <div id="result">
-            Nội dung theo dõi sẽ được load ở đây
+            WELCOME USER TRACKING
         </div>
             </div>
     </body>
