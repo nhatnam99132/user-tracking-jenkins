@@ -198,7 +198,7 @@
             </div>
             <div class="history-data">
             <div id="result">
-            <br>WELCOME USER TRACKING</br>
+            <h1>WELCOME USER TRACKING</h1>
         </div>
             </div>
     </body>
