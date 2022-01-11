@@ -4,7 +4,6 @@ pipeline {
     stage('Build') {
       steps {
         echo 'build code stage'
-        build 'user-tracking-jenkins'
       }
     }
 
