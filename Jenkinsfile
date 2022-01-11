@@ -17,7 +17,7 @@ pipeline {
       steps {
         echo 'Deploy stage'
         sh '''#!/bin/bash
-ssh -T -i /home/jenkins/key-pair.pem www-user@18.119.104.131 << EOF
+sudo ssh -T -i /home/jenkins/key-pair.pem www-user@18.119.128.51 << EOF
 cd /var/www/html/demo
 git pull
 EOF'''
