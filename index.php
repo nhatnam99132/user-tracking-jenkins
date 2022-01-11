@@ -198,7 +198,7 @@
             </div>
             <div class="history-data">
             <div id="result">
-            WELCOME USER TRACKING
+            <h1>NAMTN6</h1>  WELCOME USER TRACKING
         </div>
             </div>
     </body>
